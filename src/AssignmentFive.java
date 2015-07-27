@@ -94,6 +94,8 @@ public class AssignmentFive {
      *
      * method that will load an array made of lists with the words from a
      * dictionary file.
+     * requires - an array of binary search trees
+     * ensures - the array will be loaded with a dictionary
      */
     public static void loadDict(BinarySearchTree[] dictionary) throws FileNotFoundException {
 
